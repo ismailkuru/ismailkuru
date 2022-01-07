@@ -3,9 +3,9 @@ email: paolo.brasolin+krater@gmail.com
 description: >-
   Krater is a template for math-intensive Jekyll websites.
 baseurl: &baseurl "/ismailkuru"
-url: "https://paolobrasolin.github.io/"
-twitter_username: paolobrasolin
-github_username: paolobrasolin
+url: "https://ismailkuru.github.io/"
+twitter_username: isokuru
+github_username: ismailkuru
 
 theme: minima
 
